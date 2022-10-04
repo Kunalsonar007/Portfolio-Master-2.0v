@@ -137,7 +137,7 @@ function Aboutus() {
           <Col sm={12} md={6} lg={6} className="order-1  order-md-0">
             <div className="px-3  px-md-none">
               <h3 className="mb-title d-md-none mb-2 mb-md-none">
-                Kunal Sonar
+                Kunal Wankhede
               </h3>
               <p
                 ref={(el) => {
@@ -154,9 +154,9 @@ function Aboutus() {
                 }}
                 className="text-muted text-left"
               >
-                Currently Studying B.C.A CSE from Moolji Jaitha College, I have
-                3+ years of industry experience of developing web applications,
-                SAAS product from scratch. I have strong grasp over frontend,
+                Currently Studying B.C.A from Moolji Jaitha College, I have
+                3+ years of industry experience of developing web design, web application
+                product from scratch. I have strong grasp over frontend,
                 worked with 3+ organizations.
               </p>
               <p

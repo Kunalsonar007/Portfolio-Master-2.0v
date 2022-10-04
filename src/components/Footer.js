@@ -30,7 +30,7 @@ function Footer() {
           <span className="text-danger">
             <AiFillHeart />
           </span>{" "}
-          by Kunal Sonar
+          by Kunal Wankhede
         </p>
       </Container>
     </footer>

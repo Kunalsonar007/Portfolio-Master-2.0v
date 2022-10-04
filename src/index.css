@@ -53,7 +53,7 @@ h1,h2,h4 {
 .hero{
   height:90vh;
   position: relative;
-  background: url("./images/women.png");
+  background: url("./images/man\ support.png");
   background-repeat: no-repeat;
   background-position: 10% 50%;
   background-size: 32% 80%;
@@ -613,7 +613,7 @@ ul.d-flex.justify-content-between.cd{
   .hero{
     height:90vh;
     position: relative;
-    background: url("./images/women.png");
+    background: url("./images/man\ support.png");
     background-repeat: no-repeat;
     background-size: 34% 70%;
   }

@@ -180,7 +180,7 @@ function Hero() {
               }}
               className="hero-title"
             >
-              I am <span className="text-danger x1">Kunal Sonar</span>
+              I am <span className="text-danger x1">Kunal Wankhede</span>
             </h1>
             <h1
               ref={(el) => {

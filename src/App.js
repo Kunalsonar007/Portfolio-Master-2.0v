@@ -21,7 +21,7 @@ function App() {
 // }
   return (
     <div className="App" >
-      <div className="email-wrapper"> <img src={require('./images/line.png')} alt="line" className="img-fluid line"/><div className="email"><span>Kunalsonar1507@gmail.com</span></div></div>
+      <div className="email-wrapper"> <img src={require('./images/line.png')} alt="line" className="img-fluid line"/><div className="email"><span>Kunalwankhede958@gmail.com</span></div></div>
       
       <MobileNav/>
       <Hero/>
